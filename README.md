@@ -3,7 +3,7 @@
 My name is Rhauani Fazul!
 
 - 🎓 I am a master's student in Computer Science at Federal University of Santa Maria (UFSM) - Brazil
-- :office: I currently work at [Stars Aceleradora](https://starsaceleradora.com.br/) :coffee
+- :office: I currently work at [Stars Aceleradora](https://starsaceleradora.com.br/) :coffee:
 - 📫 Reach me at rwfazul@inf.ufsm.br
 
 
