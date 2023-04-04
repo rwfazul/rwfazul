@@ -8,6 +8,9 @@ My name is Rhauani Fazul :coffee:
 - 📫 Reach me at rwfazul@inf.ufsm.br
 
 
+I'm not actively using my personal GitHub lately :(
+
+
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rwfazul&count_private=true&show_icons=true&theme=dracula&hide=prs,issues,contribs" />
 </a>
