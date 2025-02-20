@@ -10,15 +10,9 @@ My name is Rhauani Fazul :coffee:
 
 I'm not actively using my personal GitHub lately :( 
 
+If you want to see some green boxes, you can take a look into my [professional profile](https://github.com/rwfazul-gp?tab=overview).
+
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwfazul&layout=compact&theme=dracula&count_private=true" />
-</a>
-
-
-If you want to see some green boxes, you can take a look into my professional profile.
-
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwfazul-gp&layout=compact&theme=dracula&count_private=true" />
 </a>
