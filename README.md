@@ -8,9 +8,17 @@ My name is Rhauani Fazul :coffee:
 - 📫 Reach me at rwfazul@inf.ufsm.br
 
 
-I'm not actively using my personal GitHub lately :(
+I'm not actively using my personal GitHub lately :( 
 
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwfazul&layout=compact&theme=dracula&count_private=true" />
+</a>
+
+
+If you want to see some green boxes, you can take a look into my professional profile.
+
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwfazul-gp&layout=compact&theme=dracula&count_private=true" />
 </a>
